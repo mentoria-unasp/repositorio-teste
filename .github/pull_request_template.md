@@ -1,7 +1,7 @@
 * O Que foi Feito
 
-Tipo da alteração
-[] Fix
-[] Feat
-[] Chore
-[] Docs
+* Tipo da alteração
+  - [ ] Fix
+  - [ ] Feat
+  - [ ] Chore
+  - [ ] Docs
