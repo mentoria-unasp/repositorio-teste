@@ -22,6 +22,10 @@ header{
     background-color: #f8f9fa;
 }
 
+.navbar {
+	background-color: green;
+}
+
 header img{
     width: 9%;
 }
